@@ -1,0 +1,7 @@
+Lab 6
+-----------
+1. Unzip all files. 
+2. In this lab you will use Hash data structure to store information from a certain data file (you figure it out) and time the code for spellCheckAll method.
+3. You will perform two timing experiments, one with existing data structure (as such ) in the code and the other with hash data structure.
+4. You will do this for both story files.  
+5. Submit only the Java code you made changes to and the timing results in a text file (there should be 4 - two for each story file).
